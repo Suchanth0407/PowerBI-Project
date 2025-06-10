@@ -1,9 +1,9 @@
-🌍 Global Economic and Demographic Trends Analysis
+## 🌍 Global Economic and Demographic Trends Analysis
 
 
 This project involves analyzing and visualizing global population, economic, and health data using Excel, SQL, Power BI, and Descriptive Statistics. The aim is to uncover insights into country-level indicators like GDP, population, literacy, and more—delivered through an interactive Power BI dashboard.
 
-📌 Objective
+## 📌 Objective
 
 The primary objective is to build a comprehensive Power BI dashboard by:
 
@@ -15,7 +15,7 @@ Performing descriptive statistical analysis
 
 Visualizing key trends in population, economy, health, and geography
 
-📂 Data Sources
+## 📂 Data Sources
 
 The analysis is based on the following datasets:
 
@@ -39,7 +39,7 @@ MetaData Country.csv
 
 Additional metadata for country classification
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Excel – Data cleaning and exploration
 
@@ -49,7 +49,7 @@ Power BI – Data modeling, transformations (Power Query), and dashboard creatio
 
 Descriptive Statistics – Measures like mean, median, standard deviation, etc.
 
-📊 Key Metrics Analyzed
+## 📊 Key Metrics Analyzed
 
 GDP per capita
 
@@ -65,7 +65,7 @@ Geographical features (area, coastline ratio)
 
 Regional aggregations
 
-📈 Dashboard Highlights
+## 📈 Dashboard Highlights
 
 The Power BI dashboard showcases:
 
@@ -77,7 +77,7 @@ Health and education trends per country
 
 Year-over-year GDP growth analysis (where applicable)
 
-🧠 Statistical Techniques Used
+## 🧠 Statistical Techniques Used
 
 Mean, median, mode
 
@@ -87,7 +87,7 @@ Correlation between key indicators
 
 Outlier detection and handling
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 Time-series forecasting of GDP or population using Python
 
