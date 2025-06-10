@@ -1,5 +1,6 @@
 🌍 Global Economic and Demographic Trends Analysis
 
+
 This project involves analyzing and visualizing global population, economic, and health data using Excel, SQL, Power BI, and Descriptive Statistics. The aim is to uncover insights into country-level indicators like GDP, population, literacy, and more—delivered through an interactive Power BI dashboard.
 
 📌 Objective
